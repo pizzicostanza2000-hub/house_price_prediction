@@ -1,5 +1,4 @@
-# house_price_prediction1
-Machine learning project to predict house prices
+
 # House Price Prediction
 
 This project analyzes housing data and builds machine learning models to predict house prices.
